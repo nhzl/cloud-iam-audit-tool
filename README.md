@@ -89,6 +89,6 @@ The following policy is needed for your audit user:
 
 ## 👤 Author
 
-Nicholas Hezel
-Cloud Security Engineer | Azure, AWS, Terraform | IAM | Incident Response
+Nicholas Hezel  
+Cloud Security Engineer | Azure, AWS, Terraform | IAM | Incident Response  
 🔗 [Portfolio](https://github.com/nhzl) | 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-h-793b89220/)

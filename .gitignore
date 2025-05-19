@@ -1,0 +1,24 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Test files
+*.test.py
+test_*.py
+
+
+# Result files
+*.csv
+
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# AWS credentials or env secrets (if ever used)
+.aws/
+*.env

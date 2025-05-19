@@ -86,3 +86,9 @@ The following policy is needed for your audit user:
 - 📊 Integration with OpenSearch or Splunk
 
 - ☁️ Azure/GCP IAM audit support
+
+## 👤 Author
+
+Nicholas Hezel
+Cloud Security Engineer | Azure, AWS, Terraform | IAM | Incident Response
+🔗 [Portfolio](https://github.com/nhzl) | 💼 [LinkedIn](https://www.linkedin.com/in/nicholas-h-793b89220/)
